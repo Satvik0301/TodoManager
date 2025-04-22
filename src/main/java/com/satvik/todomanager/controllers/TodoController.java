@@ -29,7 +29,7 @@ public class TodoController {
     public ResponseEntity<Todo> createTodoHandler(@RequestBody Todo todo){
         //create todo
 
-        //forcefull err
+        //forcefull
 //        String str = null;
 //        logger.info("length {}",str.length());
 
